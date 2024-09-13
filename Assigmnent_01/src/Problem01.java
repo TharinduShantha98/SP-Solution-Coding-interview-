@@ -11,9 +11,9 @@ public class Problem01 {
 
     public void calSumUsingWhileLoop(){
         int i= 0;
-        while (i > numbers.length){
-            i++;
+        while (i < numbers.length){
             y = y+ numbers[i];
+            i++;
         }
 
         System.out.println("sum of using while Loop  :" + y);
