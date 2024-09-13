@@ -14,5 +14,8 @@ public class Main {
         Problem03 problem03 = new Problem03();
         problem03.fibonacciNumber();
 
+        Problem04 problem04 = new Problem04();
+        problem04.largePossibleArray();
+
     }
 }
