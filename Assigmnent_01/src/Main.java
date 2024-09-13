@@ -10,5 +10,9 @@ public class Main {
         Problem02 problem02 = new Problem02();
         problem02.combineTwoList();
 
+
+        Problem03 problem03 = new Problem03();
+        problem03.fibonacciNumber();
+
     }
 }
