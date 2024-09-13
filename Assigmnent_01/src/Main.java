@@ -7,7 +7,8 @@ public class Main {
         problem01.calSumUsingWhileLoop();
 
 
-
+        Problem02 problem02 = new Problem02();
+        problem02.combineTwoList();
 
     }
 }
